@@ -6,7 +6,7 @@ export default function HeroSection() {
 
   return (
 
-    <div className='min-h-[60vh] flex flex-col items-center justify-between lg:flex-row
+    <div className='min-h-[65vh] flex flex-col items-center justify-between lg:flex-row
                     lg:gap-0 gap-14 px-3'>
 
         <div className='space-y-5'>
