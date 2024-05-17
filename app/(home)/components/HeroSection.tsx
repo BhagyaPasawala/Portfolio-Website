@@ -18,7 +18,8 @@ export default function HeroSection() {
 
             <p className='md:w-100 text-2xl text-gray-300'>
                 I am a <span className='underline'> {"software developer and designer."} </span> <br />
-                With more than 4 years of experience, I blend problem-solving <br /> with human-centric design, and 3D to give users an immersive experience.
+                With more than 3 years of experience in design and web development, <br /> I blend problem-solving with
+                human-centric design, and 3D to give <br /> users an immersive experience.
             </p>
             <Link href={"mailto: bhagya1710@gmail.com"} className='inline-block'>
                 <div>
